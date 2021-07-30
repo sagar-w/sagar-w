@@ -6,7 +6,7 @@
 <p><i> I'm Sagar a Final year Computer Engineering student from Amrutvahini College of Engineering, Sangamner. I'm a Tech Enthusiast, I love to explore and learn about new domains.</i></p>
 <ul>
 
-<li> 💬 <b>Ask me about</b> :<code>ASP.NET</code>,<code>JAVA</code>,<code>C#</code>,<code>C++</code>,<code>PHP-MySQL</code>, <code>HTML</code>, <code>Bootstrap</code></li>
+<li> 💬 <b>I use</b>: <code>ASP.NET</code>, <code>JAVA</code>, <code>C#</code>, <code>C++</code>, <code>PHP-MySQL</code>, <code>HTML</code>, <code>Bootstrap</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/sagar-waghmare-9560121b4/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Gmail</b> : <code><a href="mailto:sagarw093@gmail.com/">sagarw093@gmail.com</a></code></li>
 
